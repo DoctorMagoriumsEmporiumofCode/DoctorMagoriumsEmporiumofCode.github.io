@@ -5,3 +5,39 @@
     #btn {
   position: absolute;
     }
+    .square1 {
+      width: 100px;
+      height: 100px;
+      background-color: #05668d;
+      border-radius: 25px;
+      display: inline-block;
+    }
+    .square2 {
+      width: 100px;
+      height: 100px;
+      background-color: #028090;
+      border-radius: 25px;
+      display: inline-block;
+    }
+    .square3 {
+      width: 100px;
+      height: 100px;
+      background-color: #00a896;
+      border-radius: 25px;
+      display: inline-block;
+    }
+    .square4 {
+      width: 100px;
+      height: 100px;
+      background-color: #02c39a;
+           border-radius: 25px;
+           display: inline-block;
+    }
+    .square5 {
+      width: 100px;
+      height: 100px;
+      background-color: #c9e775;
+           border-radius: 25px;
+           display: inline-block;
+    }
+
