@@ -12,7 +12,7 @@ btn.addEventListener("click", () => {
 });
 
 function gotoabout(){
-  window.location.href = "about.html"
+  window.location.href = "aboutpage.html"
 }
 function gotoabout2(){
   window.location.href = "index.html"
