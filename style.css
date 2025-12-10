@@ -12,12 +12,20 @@
       border-radius: 25px;
       display: inline-block;
     }
+    .square1:hover{
+      height:120px;
+      width:121px;
+    }
     .square2 {
       width: 100px;
       height: 100px;
       background-color: #028090;
       border-radius: 25px;
       display: inline-block;
+    }
+    .square2:hover{
+      height:120px;
+      width:121px;
     }
     .square3 {
       width: 100px;
@@ -26,6 +34,10 @@
       border-radius: 25px;
       display: inline-block;
     }
+    .square3:hover{
+      height:120px;
+      width:121px;
+    }
     .square4 {
       width: 100px;
       height: 100px;
@@ -33,11 +45,19 @@
            border-radius: 25px;
            display: inline-block;
     }
+    .square4:hover{
+      height:120px;
+      width:121px;
+    }
     .square5 {
       width: 100px;
       height: 100px;
       background-color: #c9e775;
            border-radius: 25px;
            display: inline-block;
+    }
+    .square5:hover{
+      height:120px;
+      width:121px;
     }
 
