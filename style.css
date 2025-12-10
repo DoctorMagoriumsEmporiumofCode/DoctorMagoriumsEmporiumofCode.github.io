@@ -33,6 +33,7 @@
       background-color: #00a896;
       border-radius: 25px;
       display: inline-block;
+      padding-right: 5px;
     }
     .square3:hover{
       height:120px;
