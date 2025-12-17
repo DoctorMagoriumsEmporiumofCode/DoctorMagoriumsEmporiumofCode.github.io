@@ -14,6 +14,21 @@ btn.addEventListener("click", () => {
 function gotoabout(){
   window.location.href = "aboutpage.html"
 }
+function square1(){
+  window.location.href = "square1.html"
+}
+function square2(){
+  window.location.href = "square2.html"
+}
+function square3(){
+  window.location.href = "square3.html"
+}
+function square4(){
+  window.location.href = "square4.html"
+}
+function square5(){
+  window.location.href = "square5.html"
+}
 function gotoabout2(){
   window.location.href = "index.html"
 }
